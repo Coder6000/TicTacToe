@@ -1,0 +1,14 @@
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\andre\Desktop\Projekte\C# Übungen\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
