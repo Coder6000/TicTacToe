@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ILYLIQvJn+ePYmTcTNSeNAUKQaHgUpP3dV/W6sCByZ7HQ8uMSv8AMoK5izTqipw6mcdDayk025MQYH1WvjK5ig==",
+  "dgSpecHash": "4gnaU3ueItxUD751RPnP1CwwI/1qRfcLwwe7pKyvWAkQK/VFzkF2OO6HBATynN9CZxbP5T5vRmBABV62ktIXhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\Desktop\\Projekte\\C# Übungen\\TicTacToe\\TicTacToe.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\CodingStuff\\Projekte\\C#\\C#Übungen\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

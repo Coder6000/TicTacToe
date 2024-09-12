@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = TicTacToe
-build_property.ProjectDir = c:\Users\andre\Desktop\Projekte\C#Übungen\TicTacToe\
+build_property.ProjectDir = C:\Users\andre\Desktop\CodingStuff\Projekte\C#\C#Übungen\TicTacToe\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

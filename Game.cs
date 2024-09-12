@@ -324,7 +324,7 @@ namespace TicTacToe
             if(gameGrid.gamegrid[x,y].Equals("X") || gameGrid.gamegrid[x,y].Equals("O"))
             {
                 System.Console.WriteLine("This spot is already occupied, try again.");
-                System.Threading.Thread.Sleep(300);
+                System.Threading.Thread.Sleep(800);
             }
             else
             {
@@ -340,7 +340,7 @@ namespace TicTacToe
             if(gameGrid.gamegrid[x,y].Equals("X") || gameGrid.gamegrid[x,y].Equals("O"))
             {
                 System.Console.WriteLine("This spot is already occupied, try again.");
-                System.Threading.Thread.Sleep(300);
+                System.Threading.Thread.Sleep(800);
             }
             else
             {
